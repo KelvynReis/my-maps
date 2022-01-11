@@ -1,4 +1,9 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
 .conteiner{
     width: 100vw;
-    height: 1100vh;
+    height: 100vh;
 }
